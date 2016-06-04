@@ -1,0 +1,5 @@
+C:\Users\Karloz\Documents\SharpDevelop Projects\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\Karloz\Documents\SharpDevelop Projects\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\Karloz\Documents\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Karloz\Documents\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\Karloz\Documents\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
