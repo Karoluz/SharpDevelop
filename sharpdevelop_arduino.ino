@@ -1,4 +1,5 @@
-//Arduio Control
+//Arduino Control
+//Setup Pinout
 int ledPinRED   = 13;
 int ledPinBLUE  = 12;
 int ledPinGREEN = 11;
